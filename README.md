@@ -1,4 +1,4 @@
-# cmd-buis_invest_2200
+# Business Investment: Cross Classification of GFCF by Industry and Asset
 
 Transformation scripts for the business investment 2200 dataset (from SDMX source).
 
