@@ -2,7 +2,7 @@
 
 Transformation scripts for the business investment 2200 dataset (from SDMX source).
 
-Includes hierarchies for the assets and acitivity dimensions.
+Includes hierarchies for the assets and activity dimensions.
 
 NOTE - we are currently only using activity.
 
