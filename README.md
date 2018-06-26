@@ -2,8 +2,9 @@
 
 Transformation scripts for the business investment 2200 dataset (from SDMX source).
 
-Includes hierarchy .cypher and .csv but for repeat use you should only
-need "transform_busInvestment_2200.ipynb".
+Includes hierarchies for the assets and acitivity dimensions.
+
+NOTE - we are currently only using activity.
 
 
 ## Usage
